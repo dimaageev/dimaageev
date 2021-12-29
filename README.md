@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&theme=calm)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaageev)](https://github.com/dimaageev/github-readme-stats)
+
+
 
 
 
