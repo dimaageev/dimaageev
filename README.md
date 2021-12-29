@@ -1,11 +1,9 @@
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&theme=calm)
+[![MasterHead](https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png)](htttps:/github.com/dimaagev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaageev)](https://github.com/dimaageev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&theme=vue)
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=dimaageev&row=2&column=3&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
