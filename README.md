@@ -1,4 +1,20 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" />
+
+<h3 align="center">Hi there, I'm Dima 👋</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaageev"></img>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&theme=default&border_radius=15"></img>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dimaageev&theme=oldie"></img>
+</div>
+
+
+
 
 <!--
 **dimaageev/dimaageev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
