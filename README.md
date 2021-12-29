@@ -1,10 +1,4 @@
-
-[![MasterHead](https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png)](htttps:/github.com/dimaagev)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&theme=vue)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dimaageev&row=2&column=3&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaageev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vue" />
 
 <!--
 **dimaageev/dimaageev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
