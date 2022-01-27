@@ -14,14 +14,14 @@
 </div>
 
 <div align="center">
-<img align="left" alt="Visual Studio Code" width="100px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>
-<img align="left" alt="JavaScript" width="100px" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
-<img align="left" alt="TypeScript" width="100px" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg"/>
-<img align="left" alt="React" width="100px" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
-<img align="left" alt="React Native" width="100px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
-<img align="left" alt="Node.js" width="100px" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"/>
-<img align="left" alt="Firebase" width="100px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
-<img align="left" alt="Git" width="100px" src="https://img.stackshare.io/service/1046/git.png"/>
+<img align="left" alt="Visual Studio Code" width="80px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>
+<img align="left" alt="JavaScript" width="80px" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
+<img align="left" alt="TypeScript" width="80px" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg"/>
+<img align="left" alt="React" width="80px" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
+<img align="left" alt="React Native" width="80px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
+<img align="left" alt="Node.js" width="80px" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"/>
+<img align="left" alt="Firebase" width="80px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
+<img align="left" alt="Git" width="80px" src="https://img.stackshare.io/service/1046/git.png"/>
   </div>
 
 
