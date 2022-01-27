@@ -1,6 +1,9 @@
 
 <h3 align="center">Hi there, I'm Dima 👋</h3>
 
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaageev"></img>
 </div>
@@ -13,14 +16,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dimaageev&theme=oldie"></img>
 </div>
 
-<img align="left" alt="Visual Studio Code" width="80px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>
-<img align="left" alt="JavaScript" width="80px" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
-<img align="left" alt="TypeScript" width="80px" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg"/>
-<img align="left" alt="React" width="80px" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
-<img align="left" alt="React Native" width="80px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
-<img align="left" alt="Node.js" width="80px" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"/>
-<img align="left" alt="Firebase" width="80px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
-<img align="left" alt="Git" width="80px" src="https://img.stackshare.io/service/1046/git.png"/>
+<div align="center">
+  <img align="left" alt="Visual Studio Code" width="85px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>
+  <img align="left" alt="JavaScript" width="85px" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
+  <img align="left" alt="TypeScript" width="85px" src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg"/>
+  <img align="left" alt="React" width="85px" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
+  <img align="left" alt="React Native" width="85px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
+  <img align="left" alt="Node.js" width="85px" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"/>
+  <img align="left" alt="Firebase" width="85px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
+  <img align="left" alt="Git" width="85px" src="https://img.stackshare.io/service/1046/git.png"/>
+</div>
 
 
 <!--
