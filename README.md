@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi there, I'm Dima 👋</h3>
+<h3 align="center">Hi there, I'm Dima 👋  React Native Developer ⚛️</h3>
 
 
 
@@ -16,6 +16,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dimaageev&theme=oldie"></img>
 </div>
 
+
+
+
+
+<!--
+
 <div align="center">
   <img align="left" alt="Visual Studio Code" width="85px" src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png"/>
   <img align="left" alt="JavaScript" width="85px" src="https://img.stackshare.io/service/1209/javascript.jpeg"/>
@@ -26,9 +32,6 @@
   <img align="left" alt="Firebase" width="85px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
   <img align="left" alt="Git" width="85px" src="https://img.stackshare.io/service/1046/git.png"/>
 </div>
-
-
-<!--
 **dimaageev/dimaageev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
