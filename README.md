@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi there, I'm Dima 👋  React Native Developer ⚛️</h3>
+<h3 align="center">Hi there, I'm Dima 👋</h3>
 
 
 
