@@ -1,8 +1,9 @@
 
-<h3 align="center">Hi there, I'm Dima 👋</h3>
+<h3 align="start">Hi there, I'm Dima 👋</h3>
 
+<h4 align="start">Mostly writing code in JavaScript ecosystem (TypeScript, React, React Native)</h4>
 
-
+<!--
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaageev"></img>
@@ -16,6 +17,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dimaageev&theme=oldie"></img>
 </div>
 
+--!>
 
 
 
