@@ -1,7 +1,7 @@
 
 <h3 align="start">Hi there, I'm Dima 👋</h3>
 
-<h4 align="start">Mostly writing code in JavaScript ecosystem (TypeScript, React, React Native)</h4>
+<h4 align="start">Mostly writing code in JavaScript ecosystem (TypeScript, React, Next.js, React Native)</h4>
 
 <!--
 
